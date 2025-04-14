@@ -1,2 +1,2 @@
-# Idkblue8.github.io
-tester website
+
+theme: jekyll-theme-architect
